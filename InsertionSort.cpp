@@ -2,6 +2,7 @@
 
 Michael Tong
 InsertionSort.cpp
+This code will take the hard coded int array and sort it using insertion sort. 
 
 */
 
